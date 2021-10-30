@@ -25,7 +25,7 @@
 
         <Button x:Name="_btnBack" Grid.Row="0" Style="{StaticResource NavigationBackButtonNormalStyle}" IsEnabled="{x:Bind Frame.CanGoBack, Mode=OneWay}" Click="_btnBack_Click"/>
 
-        <TextBlock Grid.Row="1" Margin="12 0 0 0" FontSize="24" Text="Bilibili Danmaku Demo 2"/>
+        <TextBlock Grid.Row="1" Grid.ColumnSpan="4" Margin="12 0 0 0" FontSize="24" Text="Bilibili Danmaku Demo 2"/>
 
         <MediaPlayerElement x:Name="_mpe" Grid.Row="2" Grid.ColumnSpan="4" Source="ms-appx:///DemoFiles/demo_3.mp4" AutoPlay="False"/>
         <canvas:CanvasAnimatedControl x:Name="_canvasDanmaku" Grid.Row="2" Grid.ColumnSpan="4" ClearColor="Transparent"/>
