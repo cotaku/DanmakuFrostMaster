@@ -1,0 +1,183 @@
+{
+	"font_size": 0.9,
+	"font_color": "#FFFFFF",
+	"background_alpha": 0.9,
+	"background_color": "#9C27B0",
+	"Stroke": "none",
+	"body": [
+		{
+			"from": 13.1,
+			"to": 21.2,
+			"location": 8,
+			"content": "Happy Birthday!  Happy Birthday! to you"
+		},
+		{
+			"from": 22,
+			"to": 30,
+			"location": 8,
+			"content": "Happy Birthday!  Happy Birthday! to you"
+		},
+		{
+			"from": 30.2,
+			"to": 32.5,
+			"location": 8,
+			"content": "3 2 1 Ready?"
+		},
+		{
+			"from": 32.5,
+			"to": 40.9,
+			"location": 8,
+			"content": "When a diva with digital sigh is awake"
+		},
+		{
+			"from": 41.6,
+			"to": 50.1,
+			"location": 8,
+			"content": "Messages of blessings in the name of music are born"
+		},
+		{
+			"from": 50.3,
+			"to": 55,
+			"location": 8,
+			"content": "Want to see you  (right now, right now)"
+		},
+		{
+			"from": 55,
+			"to": 59.3,
+			"location": 8,
+			"content": "Want to be with you  (always, always)"
+		},
+		{
+			"from": 59.3,
+			"to": 63.7,
+			"location": 8,
+			"content": "What do you like?  (What do you love, what do you love?)"
+		},
+		{
+			"from": 63.8,
+			"to": 69.3,
+			"location": 8,
+			"content": "Wishing our feelings will reach you"
+		},
+		{
+			"from": 70,
+			"to": 74.3,
+			"location": 8,
+			"content": "When we hear the sound of your voice"
+		},
+		{
+			"from": 74.3,
+			"to": 78.9,
+			"location": 8,
+			"content": "The world changes, Happy Birthday!"
+		},
+		{
+			"from": 78.9,
+			"to": 83.3,
+			"location": 8,
+			"content": "Dreamed of you when we were young"
+		},
+		{
+			"from": 83.3,
+			"to": 87.9,
+			"location": 8,
+			"content": "“O-me-de-to-u (congratulations)”  to the angel"
+		},
+		{
+			"from": 87.9,
+			"to": 92.4,
+			"location": 8,
+			"content": "Even when we are alone sometimes"
+		},
+		{
+			"from": 92.4,
+			"to": 97.2,
+			"location": 8,
+			"content": "You are here, Mikusan-kyu (Miku, thank you)"
+		},
+		{
+			"from": 97.2,
+			"to": 103,
+			"location": 8,
+			"content": "You and friends who care about you will join together"
+		},
+		{
+			"from": 103.4,
+			"to": 109.5,
+			"location": 8,
+			"content": "The feelings of becoming united, to you"
+		},
+		{
+			"from": 112.6,
+			"to": 121.4,
+			"location": 8,
+			"content": "People will go beyond the time to meet you"
+		},
+		{
+			"from": 121.7,
+			"to": 133.1,
+			"location": 8,
+			"content": "It may be small but this song is a present for you"
+		},
+		{
+			"from": 133.8,
+			"to": 138.3,
+			"location": 8,
+			"content": "When we hear the sound of your voice"
+		},
+		{
+			"from": 138.3,
+			"to": 143.2,
+			"location": 8,
+			"content": "The world changes, Happy Birthday!"
+		},
+		{
+			"from": 143.2,
+			"to": 147.5,
+			"location": 8,
+			"content": "Walking the paths of new history to be made"
+		},
+		{
+			"from": 147.5,
+			"to": 151.8,
+			"location": 8,
+			"content": "“O-me-de-to-u (congratulations)” to the angel"
+		},
+		{
+			"from": 151.8,
+			"to": 156.6,
+			"location": 8,
+			"content": "When you performed our words for the first time"
+		},
+		{
+			"from": 156.6,
+			"to": 161.2,
+			"location": 8,
+			"content": "The heart unsealed, Mikusan-kyu (Miku, thank you)"
+		},
+		{
+			"from": 161.2,
+			"to": 166.8,
+			"location": 8,
+			"content": "You and friends who care about you will join together"
+		},
+		{
+			"from": 167.3,
+			"to": 173.9,
+			"location": 8,
+			"content": "The feelings of becoming united, to you"
+		},
+		{
+			"from": 174.1,
+			"to": 183.5,
+			"location": 8,
+			"content": "Teardrops of emerald, to you"
+		},
+		{
+			"from": 186.8,
+			"to": 189,
+			"location": 8,
+			"content": "English subtitles by Mitchie M"
+		}
+	]
+}

@@ -1,0 +1,177 @@
+{
+	"font_size": 0.9,
+	"font_color": "#FFFFFF",
+	"background_alpha": 0.9,
+	"background_color": "#9C27B0",
+	"Stroke": "none",
+	"body": [
+		{
+			"from": 13.1,
+			"to": 21.2,
+			"location": 8,
+			"content": "Happy Birthday!  Happy Birthday! to you"
+		},
+		{
+			"from": 22,
+			"to": 30,
+			"location": 8,
+			"content": "Happy Birthday!  Happy Birthday! to you"
+		},
+		{
+			"from": 30.2,
+			"to": 32.5,
+			"location": 8,
+			"content": "3 2 1 Ready?"
+		},
+		{
+			"from": 32.5,
+			"to": 40.9,
+			"location": 8,
+			"content": "數位的吐息　在歌姬覺醒之時"
+		},
+		{
+			"from": 41.6,
+			"to": 50.1,
+			"location": 8,
+			"content": "而誕生的音樂　 就如無數祝福的信息"
+		},
+		{
+			"from": 50.3,
+			"to": 55,
+			"location": 8,
+			"content": "想要遇上你 　 (立刻　立刻)"
+		},
+		{
+			"from": 55,
+			"to": 59.3,
+			"location": 8,
+			"content": "想要伴你身旁呢 　 (永遠　永遠)"
+		},
+		{
+			"from": 59.3,
+			"to": 63.7,
+			"location": 8,
+			"content": "喜歡些什麼呢？ (What do you love?　What do you love?)"
+		},
+		{
+			"from": 63.8,
+			"to": 69.3,
+			"location": 8,
+			"content": "為將這份思念傳達出去而祈禱着"
+		},
+		{
+			"from": 70,
+			"to": 74.3,
+			"location": 8,
+			"content": "初次傾聽着　你的聲音"
+		},
+		{
+			"from": 74.3,
+			"to": 78.9,
+			"location": 8,
+			"content": "世界就此改變　Happy Birthday!"
+		},
+		{
+			"from": 78.9,
+			"to": 83.3,
+			"location": 8,
+			"content": "向小時候　在夢中所見的"
+		},
+		{
+			"from": 83.3,
+			"to": 87.9,
+			"location": 8,
+			"content": "天使說聲恭喜"
+		},
+		{
+			"from": 87.9,
+			"to": 92.4,
+			"location": 8,
+			"content": "時而我　感到孤獨也好"
+		},
+		{
+			"from": 92.4,
+			"to": 97.2,
+			"location": 8,
+			"content": "因為有你在　Miku thank you"
+		},
+		{
+			"from": 97.2,
+			"to": 103,
+			"location": 8,
+			"content": "將喜歡你的同伴連系起來吧"
+		},
+		{
+			"from": 103.4,
+			"to": 109.5,
+			"location": 8,
+			"content": "這份想要在一起的感情　to You"
+		},
+		{
+			"from": 112.6,
+			"to": 121.4,
+			"location": 8,
+			"content": "跨越數千的時光　人們與你相遇"
+		},
+		{
+			"from": 121.7,
+			"to": 133.1,
+			"location": 8,
+			"content": "如此微薄對不起呢　這首歌是送給你的禮物"
+		},
+		{
+			"from": 133.8,
+			"to": 138.3,
+			"location": 8,
+			"content": "初次傾聽着　你的聲音"
+		},
+		{
+			"from": 138.3,
+			"to": 143.2,
+			"location": 8,
+			"content": "世界就此改變　Happy Birthday!"
+		},
+		{
+			"from": 143.2,
+			"to": 147.5,
+			"location": 8,
+			"content": "又再步向　新的歷史"
+		},
+		{
+			"from": 147.5,
+			"to": 151.8,
+			"location": 8,
+			"content": "向天使說聲恭喜"
+		},
+		{
+			"from": 151.8,
+			"to": 156.6,
+			"location": 8,
+			"content": "你初次奏出　我的說話"
+		},
+		{
+			"from": 156.6,
+			"to": 161.2,
+			"location": 8,
+			"content": "敞開了我的心扉　Miku thank you"
+		},
+		{
+			"from": 161.2,
+			"to": 166.8,
+			"location": 8,
+			"content": "將喜歡你的同伴連系起來吧"
+		},
+		{
+			"from": 167.3,
+			"to": 173.9,
+			"location": 8,
+			"content": "這份想要在一起的感情　to You"
+		},
+		{
+			"from": 174.1,
+			"to": 183,
+			"location": 8,
+			"content": "綠寶石般的淚　to You"
+		}
+	]
+}

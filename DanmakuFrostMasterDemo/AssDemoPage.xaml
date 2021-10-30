@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="DanmakuFrostMasterDemo.AssDemoPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:canvas="using:Microsoft.Graphics.Canvas.UI.Xaml"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="48"/>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="_btnBack" Grid.Row="0" Style="{StaticResource NavigationBackButtonNormalStyle}" IsEnabled="{x:Bind Frame.CanGoBack, Mode=OneWay}" Click="_btnBack_Click"/>
+
+        <TextBlock Grid.Row="1" Margin="12 0 0 0" FontSize="24" Text="ASS Subtitle Demo"/>
+
+        <MediaPlayerElement x:Name="_mpe" Grid.Row="2" Grid.ColumnSpan="3" AutoPlay="False"/>
+        <canvas:CanvasAnimatedControl x:Name="_canvasDanmaku" Grid.Row="2" Grid.ColumnSpan="3" ClearColor="Transparent"/>
+
+        <Slider x:Name="_sliderPos" Grid.Row="3" Margin="12 8 0 8" VerticalAlignment="Center" Minimum="0" Maximum="1000" IsEnabled="False"
+                ValueChanged="_sliderPos_ValueChanged"/>
+
+        <Button x:Name="_btnOpen" Grid.Row="4" Margin="12 0 0 0" VerticalAlignment="Center" Content="Open" Click="_btnOpen_Click"/>
+
+        <CheckBox x:Name="_cbDebugMode" Grid.Row="5" Margin="12 4" HorizontalAlignment="Left" Content="Debug Mode"
+                  Checked="_cbDebugMode_Checked" Unchecked="_cbDebugMode_Unchecked"/>
+    </Grid>
+</Page>

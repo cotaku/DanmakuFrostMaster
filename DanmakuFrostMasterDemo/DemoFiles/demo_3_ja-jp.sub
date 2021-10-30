@@ -1,0 +1,183 @@
+{
+	"font_size": 0.9,
+	"font_color": "#FFFFFF",
+	"background_alpha": 0.9,
+	"background_color": "#9C27B0",
+	"Stroke": "none",
+	"body": [
+		{
+			"from": 13.1,
+			"to": 21.2,
+			"location": 8,
+			"content": "Happy Birthday!  Happy Birthday! to you"
+		},
+		{
+			"from": 22,
+			"to": 30,
+			"location": 8,
+			"content": "Happy Birthday!  Happy Birthday! to you"
+		},
+		{
+			"from": 30.2,
+			"to": 32.5,
+			"location": 8,
+			"content": "3 2 1 Ready?"
+		},
+		{
+			"from": 32.5,
+			"to": 40.9,
+			"location": 8,
+			"content": "デジタルの吐息の　歌姫が目覚めたときに"
+		},
+		{
+			"from": 41.6,
+			"to": 50.1,
+			"location": 8,
+			"content": "生まれる音楽の　数は祝福のメッセージ"
+		},
+		{
+			"from": 50.3,
+			"to": 55,
+			"location": 8,
+			"content": "君に会いたい （すぐにすぐに）"
+		},
+		{
+			"from": 55,
+			"to": 59.3,
+			"location": 8,
+			"content": "そばに居たいな （いつもいつも）"
+		},
+		{
+			"from": 59.3,
+			"to": 63.7,
+			"location": 8,
+			"content": "何が好きなの? （What do you love?, What do you love?）"
+		},
+		{
+			"from": 63.8,
+			"to": 69.3,
+			"location": 8,
+			"content": "想いが届くこと祈ってる"
+		},
+		{
+			"from": 70,
+			"to": 74.3,
+			"location": 8,
+			"content": "初めて君の　声の音聴いて"
+		},
+		{
+			"from": 74.3,
+			"to": 78.9,
+			"location": 8,
+			"content": "世界が変わる　Happy Birthday!"
+		},
+		{
+			"from": 78.9,
+			"to": 83.3,
+			"location": 8,
+			"content": "小さい頃に　夢で見ていた"
+		},
+		{
+			"from": 83.3,
+			"to": 87.9,
+			"location": 8,
+			"content": "エンジェルにおめでとう"
+		},
+		{
+			"from": 87.9,
+			"to": 92.4,
+			"location": 8,
+			"content": "時には僕が　孤独でいても"
+		},
+		{
+			"from": 92.4,
+			"to": 97.2,
+			"location": 8,
+			"content": "君がいるから　ミクさんきゅー"
+		},
+		{
+			"from": 97.2,
+			"to": 103,
+			"location": 8,
+			"content": "繋がるよ君を好きな仲間と"
+		},
+		{
+			"from": 103.4,
+			"to": 109.5,
+			"location": 8,
+			"content": "ひとつになる気持ち　to You"
+		},
+		{
+			"from": 112.6,
+			"to": 121.4,
+			"location": 8,
+			"content": "幾千の時越えて　人は君と出会う"
+		},
+		{
+			"from": 121.7,
+			"to": 133.1,
+			"location": 8,
+			"content": "ささやかでゴメンね　この詩がプレゼント"
+		},
+		{
+			"from": 133.8,
+			"to": 138.3,
+			"location": 8,
+			"content": "初めて君の　声の音聴いて"
+		},
+		{
+			"from": 138.3,
+			"to": 143.2,
+			"location": 8,
+			"content": "世界が変わる　Happy Birthday!"
+		},
+		{
+			"from": 143.2,
+			"to": 147.5,
+			"location": 8,
+			"content": "また新しい　歴史を歩む"
+		},
+		{
+			"from": 147.5,
+			"to": 151.8,
+			"location": 8,
+			"content": "エンジェルにおめでとう"
+		},
+		{
+			"from": 151.8,
+			"to": 156.6,
+			"location": 8,
+			"content": "初めて僕の　言葉を奏で"
+		},
+		{
+			"from": 156.6,
+			"to": 161.2,
+			"location": 8,
+			"content": "心が開く　ミクさんきゅー"
+		},
+		{
+			"from": 161.2,
+			"to": 166.8,
+			"location": 8,
+			"content": "繋がるよ君を好きな仲間と"
+		},
+		{
+			"from": 167.3,
+			"to": 173.9,
+			"location": 8,
+			"content": "ひとつになる気持ち　to You"
+		},
+		{
+			"from": 174.1,
+			"to": 183.5,
+			"location": 8,
+			"content": "涙のエメラルド　to You"
+		},
+		{
+			"from": 186.84,
+			"to": 189,
+			"location": 8,
+			"content": "日本語字幕 Mitchie M"
+		}
+	]
+}
