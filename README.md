@@ -45,12 +45,12 @@ _danmakuController.SetDanmakuList(danmakuList);
 ![demo1](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo1.png?raw=true)
 
 ### Demo for Bilibili video (Video: BV1Js411o76u)
-![demo1](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo2-1.png?raw=true)
+![demo2-1](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo2-1.png?raw=true)
 ### Demo for Bilibili mode7 danmaku (Video: BV1Js411o76u)
-![demo1](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo2-2.png?raw=true)
+![demo2-2](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo2-2.png?raw=true)
 
 ### Demo for Bilibili CC subtitle (Video: BV1Ws411m7VY)
-![demo1](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo3.png?raw=true)
+![demo3](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo3.png?raw=true)
 
 ### Demo for ASS subtitle (Video: ?)
-![demo1](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo4.png?raw=true)
+![demo4](https://github.com/cotaku/DanmakuFrostMaster/blob/main/DanmakuFrostMasterDemo/DemoScreenshots/demo4.png?raw=true)
